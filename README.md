@@ -4,4 +4,4 @@
 **Professor**
 *Gustavo Guanabara*
  
-#Aprnda Sem tela preta 
+#Aprenda Sem tela preta 
