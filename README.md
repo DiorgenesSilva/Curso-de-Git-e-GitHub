@@ -1,4 +1,6 @@
-# Curso de Git e GitHub
+# Curso de Git e GitHub 
+##Oque é Git 
+###Oque é GitHub
 **Professor**
-*Gustavo guanabara* 
+*Gustavo Guanabara*
  
